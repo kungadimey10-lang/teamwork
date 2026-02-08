@@ -1,2 +1,2 @@
 print("Kunga Task A")
-print('YourName Task B')
+print('Shanto Task B')
